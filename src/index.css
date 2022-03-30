@@ -28,7 +28,12 @@ code {
   color: white;
 }
 .Logout{
-  position: absolute;
+  overflow:hidden;
   bottom: 10px;
+  width: 100%;
+  position:absolute;
+}
+
+.divComponent {
   width: 100%;
 }
